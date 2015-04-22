@@ -1,0 +1,8 @@
+ipython[notebook]
+numpy>=1.9
+matplotlib>=1.4.3
+pandas>=0.16
+prettyplotlib>=0.1.7
+scipy>=0.15.1
+bokeh>=0.8.2
+seaborn>=0.5.1
